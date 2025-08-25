@@ -1,6 +1,6 @@
 module github.com/go-pay/gopay
 
-go 1.23.0
+go 1.19
 
 require (
 	github.com/go-pay/crypto v0.0.1
